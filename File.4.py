@@ -721,3 +721,6 @@ print(st[1].data) # new obj2
 #     else:
 #  hhjhjhjhjhjhjhj!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ###26773684733453454
+
+
+#okojfojojoj
