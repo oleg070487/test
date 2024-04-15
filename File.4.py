@@ -719,4 +719,4 @@ print(st[1].data) # new obj2
 #     if i.next:
 #         i = i.next
 #     else:
-#         breakfrfrff
+#  hhjhjhjhjhjhjhj!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
